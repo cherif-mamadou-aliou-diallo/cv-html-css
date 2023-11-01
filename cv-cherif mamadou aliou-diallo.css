@@ -1,0 +1,68 @@
+body{
+    margin-block-start: 1rem;
+    margin-left: 15%;margin-right: 15%;
+    margin-top: auto;
+    border-radius: 20px;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* Les tailles de polices doivent etre en REM */
+    font-size: 1rem;
+    border: 3px solid rgb(167, 55, 55);
+}
+
+h1{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-image: url(./images/CSS4.jpg);
+    text-align: center;
+    /* Les tailles de polices doivent etre en REM */
+    font-size: 1rem;;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+}
+h2{
+    background-image: url(./images/CSS4.jpg);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    /* Les tailles de polices doivent etre en REM */
+    font-size: 1rem;;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+}
+
+h3{
+    background-image: url(./images/CSS4.jpg);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    /* Les tailles de polices doivent etre en REM */
+    font-size: 1rem;;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+}
+
+h4{
+    background-image: url(./images/CSS4.jpg);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    /* Les tailles de polices doivent etre en REM */
+    font-size: 1rem;;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+}
+
+h5{
+    background-image: url(./images/CSS4.jpg);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    /* Les tailles de polices doivent etre en REM */
+    font-size: 1rem;;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+}
